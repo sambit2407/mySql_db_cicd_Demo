@@ -9,7 +9,7 @@ def db_connection():
 
 
 
-print('DB created')
+
 
 def store_data(name,email,role):
     conn=db_connection()
